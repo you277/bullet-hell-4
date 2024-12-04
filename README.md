@@ -2,7 +2,7 @@
 
 cool bullet hell game i made for my final project in sophomore year. there are invincibility frames, many patterns, an ending, and a restart loop
 
-code written by me, bullet sprites made by my friend. dream world background and cirno sprite from somewhere
+code written by me, bullet sprites made by my william. dream world background and cirno sprite from somewhere
 
 controls:
 - wasd to move
