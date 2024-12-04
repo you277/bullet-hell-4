@@ -1,8 +1,12 @@
 :)
 
-cool bullet hell game i made for my final project in sophomore year
+cool bullet hell game i made for my final project in sophomore year. there are invincibility frames, many patterns, an ending, and a restart loop
 
-has a scheduler bc i decided making a scheduler was easier than trying to use threads on python, r to revive, invincibility frames, many patterns, an ending, and a restart loop
+code written by me, bullet sprites made by my friend. dream world background and cirno sprite from somewhere
+
+controls:
+- wasd to move
+- r to revive
 
 requires pygame
 
